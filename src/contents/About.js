@@ -12,8 +12,8 @@ class About extends Component {
             <br></br>
             <p>I started my journey in the world of computers from an young age,
             now I’m 22 years old, Pursuing my Computer Science & Engineering Degree in
-            Sapthagiri College of Engineering, Bangalore.  Web development is my center of interest, i always
-            love the idea of cross-platform development, 1-n one code base deploy into almost
+            Sapthagiri College of Engineering, Bangalore.  Web development is my center of interest, I always
+            love the idea of cross-platform development, and one code base deploy into almost
             any platform, which web technology like Javascript enables me to do. I also like
             creating Interactive UI components for better UX  and share those desgin and codes
             to the world through Github and Instagram.
